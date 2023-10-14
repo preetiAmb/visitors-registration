@@ -1,0 +1,30 @@
+[
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "personalNumber": "1234567890-9876",
+      "nationality": "US",
+      "city": "New York",
+      "organisation": "ABC Inc.",
+      "recipient": "Alice Johnson"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "personalNumber": "9876543210-7566",
+      "nationality": "UK",
+      "city": "London",
+      "organisation": "XYZ Corp",
+      "recipient": "Bob Williams"
+    },
+    {
+      "firstName": "Eva",
+      "lastName": "Brown",
+      "personalNumber": "4567890123-6546",
+      "nationality": "DE",
+      "city": "Berlin",
+      "organisation": "Tech Solutions",
+      "recipient": "David Lee"
+    }
+  ]
+  

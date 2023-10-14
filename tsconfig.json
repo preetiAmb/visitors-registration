@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "target": "ES2018", // Change the target version as needed
+      "module": "CommonJS",
+      "strict": true,
+      "jsx": "react",
+      "esModuleInterop": true,
+      "skipLibCheck": true
+    }
+  }
+  
